@@ -1,0 +1,10 @@
+*.pyc
+*~
+.DS_Store
+_build/*
+dist/*
+MANIFEST
+*.egg-info/*
+*swp
+.idea
+__pycache__
